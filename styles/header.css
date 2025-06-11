@@ -18,6 +18,11 @@
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
 
+.sticky-nav-menu.fixed {
+  top: 0;
+  position: fixed;
+}
+
 .sticky-nav-menu a {
   width: 90px;
   text-align: center;
