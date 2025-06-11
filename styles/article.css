@@ -1,0 +1,12 @@
+.sticky-nav-article {
+  width: 750px;
+  margin: 70px 0;
+  padding: 60px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.7);
+  text-align: justify;
+}
+
+.sticky-nav-article p {
+  margin-bottom: 20px;
+}
