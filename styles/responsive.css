@@ -1,0 +1,38 @@
+@media (max-width: 650px) {
+  .sticky-nav-header {
+    height: 270px;
+  }
+
+  .sticky-nav-article {
+    width: 90vw;
+    padding: 50px;
+    margin: 30px 0;
+  }
+}
+
+@media (min-width: 651px) and (max-width: 900px) {
+  .sticky-nav-header {
+    height: 300px;
+  }
+
+  .sticky-nav-article {
+    width: 80vw;
+    padding: 50px;
+    margin: 40px 0;
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1100px) {
+  .sticky-nav-article {
+    width: 80vw;
+    padding: 50px;
+    margin: 50px 0;
+  }
+}
+
+@media (min-width: 1101px) {
+  .sticky-nav-article {
+    padding: 60px;
+    margin: 70px 0;
+  }
+}
